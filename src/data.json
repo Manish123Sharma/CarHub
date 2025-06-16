@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "img": "Jeep_Wrangler.png",
+        "title": "Jeep Wrangler",
+        "desc": "The image shows a Jeep Wrangler Rubicon, a popular off-road SUV known for its rugged design and exceptional trail performance. This particular model has been modified for serious overlanding or expedition use. It features large mud-terrain tires, a front winch bumper, rock sliders, a snorkel for water crossings, and an LED light bar mounted on the roof for improved visibility during night drives. A rooftop tent or storage unit is also installed, suggesting it's prepared for long-distance, off-grid adventures. The vehicle is seen navigating a muddy forest trail, showcasing its 4x4 capabilities and the adventurous spirit it embodies.",
+        "price": "8500000",
+        "colour": "white"
+    },
+    {
+        "id": 2,
+        "img": "83_Defender_110.png",
+        "title": "83 Defender 110",
+        "desc": "The first image showcases a classic Land Rover Defender 110, a true icon in the world of off-roading. With its boxy design, matte green paint, and utilitarian charm, it’s built for serious exploration. The vehicle is equipped with essential expedition gear including a snorkel for water crossings, a winch for recovery, and a roof-mounted storage box or tent—perfect for long-distance overland journeys. The aggressive tread on the tires and the minimalistic, rugged styling emphasize function over form. This version of the Defender is all about durability, self-sufficiency, and conquering the toughest terrain with confidence.",
+        "price": "11000000",
+        "colour": "dark grey"
+    },
+    {
+        "id": 3,
+        "img": "Defender_110.png",
+        "title": "Defender 110",
+        "desc": "The second image features the modern Land Rover Defender 110, redesigned with contemporary aesthetics while maintaining its legendary off-road heritage. Set against a dramatic mountain backdrop, this Defender blends luxury with capability. It’s equipped with expedition-ready modifications like a factory-fitted snorkel, off-road bumpers, roof tent, and LED lighting for night drives. While its predecessors focused purely on utility, the modern Defender adds refinement, advanced traction control systems, and digital off-road tech—making it equally comfortable on a city street or a muddy trail. This version appeals to adventurers who want rugged performance without sacrificing comfort.",
+        "price": "28500000",
+        "colour": "golden"
+    },
+    {
+        "id": 4,
+        "img": "Fortuner_Legender.png",
+        "title": "Fortuner Legender",
+        "desc": "In the third image, we see a Toyota Fortuner Legender modified for long-distance road expeditions. Adorned with decals and sponsorship stickers, it reflects a vehicle used in serious travel, possibly for a mission like “India to Lamgales.” This SUV features a snorkel for river crossings, roof-mounted LED lights, a robust winch setup, and all-terrain tires. The clean yet aggressive front fascia and the expedition graphics add a sense of adventure and purpose. This Fortuner represents a balance between rugged off-road capability and stylish presence, tailored for those who want to travel far while standing out.",
+        "price": "5000000",
+        "colour": "white"
+    },
+    {
+        "id": 5,
+        "img": "Toyota_Hilux.png",
+        "title": "Toyota Hilux",
+        "desc": "The fourth image showcases a Toyota Hilux transformed into a world-touring overlander. It carries the map decal “India to LA by Road,” indicating a transcontinental journey. The Hilux is fully equipped with a rooftop tent (by Rhino-Rack), LED light bar, snorkel, winch, and beefy off-road tires. Additional stickers from sponsors and global expedition partners emphasize the scale and ambition of the adventure. Known for its unmatched reliability and toughness, the Hilux in this build becomes not just a vehicle but a mobile home and survival partner—ready for deserts, mountains, forests, and everything in between.",
+        "price": "5500000",
+        "colour": "white"
+    },
+    {
+        "id": 6,
+        "img": "GTR35.png",
+        "title": "Nissan GT-R (Track Drift Spec Raceway)",
+        "desc": "Another GT-R built for pure drift performance, this version sports twin turbos with an exposed setup and front-mounted intercooler. Seen on a racetrack mid-drift, the bold “DRIFT” windshield decal and modified aerodynamic elements like the rear wing make its purpose unmistakable—competitive drifting dominance.",
+        "price": "3500000",
+        "colour": "Black"
+    },
+    {
+        "id": 7,
+        "img": "Raptor_R.png",
+        "title": "Ford Raptor R (Overlanding Rig Dirt Trail)",
+        "desc": "This Ford Raptor R is an off-road beast outfitted for overlanding. With a rooftop tent, massive off-road tires, heavy-duty bumpers, LED lighting, and a snorkel, its ready for long adventures in the wild. The blue paint with off-road decals adds a stylish yet rugged character to this capable truck.",
+        "price": "13500000",
+        "colour": "Blue"
+    },
+    {
+        "id": 8,
+        "img": "Jeep_Rubicon.png",
+        "title": "Jeep Rubicon(Off-Road Build Forest Trail)",
+        "desc": "Built for rugged terrain, this Jeep Rubicon is modified with a snorkel, large mud-terrain tires, front winch, and LED light bar for enhanced trail capability. Its matte green finish and lifted suspension make it a go-anywhere machine, ideal for overlanding or deep forest expeditions.",
+        "price": "9000000",
+        "colour": "Green"
+    },
+    {
+        "id": 9,
+        "img": "GTR_35.png",
+        "title": "Nissan GT-R (Twin Turbo Drift Build Mountain Setting)",
+        "desc": "This high-performance Nissan GT-R features a fully exposed twin-turbo engine setup, optimized for extreme power and drifting. Captured mid-drift in a scenic mountainous location, it highlights a fusion of raw engineering and dynamic driving. The wide tires, aggressive body kit, and billowing tire smoke emphasize its track-focused upgrades.",
+        "price": "3500000",
+        "colour": "Silver"
+    }
+]
