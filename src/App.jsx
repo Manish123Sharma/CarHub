@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from './components/header'
+import Header from './components/Header'
 import { Typography } from '@mui/material'
 import './App.css'
 import Cards from './components/Cards'
