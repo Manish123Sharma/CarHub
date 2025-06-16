@@ -16,13 +16,21 @@ export default function Cards({ img, title, desc, colour, price }) {
                 display: 'flex',
                 flexDirection: 'column',
                 justifyContent: 'space-between',
+                boxShadow: '0 12px 20px rgba(0, 0, 0, 0.3)',
+                transition: 'transform 0.3s ease, box-shadow 0.3s ease',
+                '&:hover': {
+                    transform: 'scale(1.05)',
+                    boxShadow: '0 12px 20px rgba(0, 0, 0, 0.5)',
+                    zIndex: 2,
+                },
+                borderRadius: 5,
             }}
         >
             <CardMedia
                 component="img"
                 alt={title}
                 image={img}
-                // sx={{ height: 180, objectFit: 'fill' }}
+            // sx={{ height: 180, objectFit: 'fill' }}
             />
             <CardContent sx={{ flexGrow: 1 }}>
                 <Typography gutterBottom variant="h5" component="div">
@@ -44,7 +52,7 @@ export default function Cards({ img, title, desc, colour, price }) {
                     {desc}
                 </Typography>
                 <Typography
-                component="div"
+                    component="div"
                     sx={{
                         display: 'flex',
                         justifyContent: 'space-between',
@@ -53,7 +61,7 @@ export default function Cards({ img, title, desc, colour, price }) {
                     }}
                 >
                     <Typography
-                    component="span"
+                        component="span"
                         sx={{
                             background: '#333',
                             padding: '4px 10px',
