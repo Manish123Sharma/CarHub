@@ -1,8 +1,8 @@
 import React from 'react'
-import Header from './components/Header'
+import Header from './components/header.jsx';
 import { Typography } from '@mui/material'
 import './App.css'
-import Cards from './components/Cards'
+import Cards from './components/Cards.jsx'
 import carData from "./data.json";
 
 const images = import.meta.glob("./assets/*.png", { eager: true });
